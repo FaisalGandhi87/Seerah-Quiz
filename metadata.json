@@ -1,0 +1,6 @@
+{
+  "name": "Seerah Challenge Pro",
+  "description": "Learn and test your knowledge of the Prophet Muhammad's ﷺ life with interactive quizzes, battle modules, AI Tutor, and real-time insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
